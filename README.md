@@ -7,16 +7,24 @@ Includes **Swagger API documentation** for easy testing. 🚀
 ---
 
 ## 🔥 Features
-✅ Developed a RESTful blogging application with user registration, login, and role-based access (Admin/User) 
-✅ Implemented JWT-based authentication and authorization to secure APIs and restrict access based on user roles.
+✅ Developed a RESTful blogging application with user registration, login, and role-based access (Admin/User)  
+
+✅ Implemented JWT-based authentication and authorization to secure APIs and restrict access based on user roles.  
+
 ✅ Designed and built endpoints for posts, comments, categories, and user management using Spring Data JPA  
-✅ Enabled users to add, update, and delete comments, and categorize posts. 
-✅ Implemented pagination and sorting for blog posts using Spring Data JPA to enhance performance and user 
-experience.Integrated 
-✅ Image upload functionality for posts and handled file storage.
-✅ Used DTOs for clean data transfer and implemented global exception handling for better error management. 
-✅ Documented all APIs using Swagger for easy consumption by frontend/client teams. 
-✅ Configured different application profiles (dev, test, prod) and deployed the application on AWS. 
+
+✅ Enabled users to add, update, and delete comments, and categorize posts.  
+
+✅ Implemented pagination and sorting for blog posts using Spring Data JPA to enhance performance and user experience.  
+
+✅ Integrated image upload functionality for posts and handled file storage.  
+
+✅ Used DTOs for clean data transfer and implemented global exception handling for better error management.  
+
+✅ Documented all APIs using Swagger for easy consumption by frontend/client teams.  
+
+✅ Configured different application profiles (dev, test, prod) and deployed the application on AWS.  
+
 
 
 ---
